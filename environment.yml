@@ -1,0 +1,18 @@
+name: traffic
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - jupyterlab
+  - nb_conda_kernels
+  - dask
+  - scikit-learn
+  - matplotlib
+  - geopandas
+  - wordcloud
+  - beautifulsoup4
+  - geopy
+  - descartes
+  - seaborn
+prefix: /home/hayden/anaconda3/envs/traffic
+
